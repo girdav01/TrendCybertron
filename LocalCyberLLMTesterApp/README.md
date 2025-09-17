@@ -360,13 +360,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🙏 Acknowledgments
 
 - **Trend Micro**: For the Trend Cybertron Primus 8B model
-- **Cisco Foundation AI**: For the original use case examples
 - **Ollama**: For the local model serving framework
 - **Streamlit**: For the web application framework
 
 ## 📞 Support
 
-- **Documentation**: Check this README and inline comments
-- **Issues**: Report bugs via GitHub Issues
-- **Community**: Join the Trend Cybertron community discussions
-- **Professional Support**: Contact Trend Micro for enterprise support
+- **Unsupported appliacation, this is delivered as is**
+
