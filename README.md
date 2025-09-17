@@ -9,4 +9,6 @@ In this repos you have the procedure to turn HuggingFace Safesensors file into G
 
 And an App to test some Cybersecurity prompts with Trend Cybertron Primus or other LLM's in a visual way
 
+in the file LocalCyberLLMTesterApp/utils/prompt_templates.py  you can see all the suggested System prompts and user prompts. Please edit the user prompts with additional informations for more realistic results
+
 
