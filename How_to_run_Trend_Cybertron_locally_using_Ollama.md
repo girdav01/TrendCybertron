@@ -107,3 +107,5 @@ Let's test it with a prompt
 
 You can now enjoy a local Trend Cybertron Cybersecurity Model Fined
 tuned by Trend Micro AILab team
+
+Now if you want to test it with either Ollama or LM Studio, use the StreamLit App which is the sub directory LocalCyberLLMTesterApp
